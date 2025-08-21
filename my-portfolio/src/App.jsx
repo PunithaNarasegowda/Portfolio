@@ -39,7 +39,7 @@ function App() {
           <h2 className="text-3xl font-bold text-red-400 mb-4">Experience</h2>
           <p>💼 Internship and work experience details.</p>
         </section>
-        <section id=>
+        <section id="about-section">
       <About />
     </section>
 
